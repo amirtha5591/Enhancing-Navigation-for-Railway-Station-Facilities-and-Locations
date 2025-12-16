@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:16-12-2025
-## Register Number:212223040155
-## Name:PRIYADHARSHINI R K
+## Register Number:212223040013
+## Name:AMIRTHAVARSHINI.R.D
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
